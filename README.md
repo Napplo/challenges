@@ -70,7 +70,7 @@ Completed projects will:
 
 If you have questions about a specific challenge or need technical support:
 - Check the challenge FAQ section
-- Post in the [Napplo Community Forums](https://napplo.com/community)
+- ~Post in the [Napplo Community Forums](https://napplo.com/community)~ (Coming Soon)
 - Contact support at challenges@napplo.com
 
 ---
