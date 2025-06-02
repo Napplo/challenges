@@ -2,10 +2,6 @@
 
 Welcome to the official Napplo Challenges collection! This repository serves as the central hub for all app development challenges available on the Napplo platform.
 
-<p align="center">
-  <img src="assets/napplo-challenges-banner.png" alt="Napplo Challenges Banner" width="800">
-</p>
-
 ## Navigation
 
 - [Beginner Challenges](#beginner-challenges)
